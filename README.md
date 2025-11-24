@@ -1,5 +1,5 @@
 # Sora2 视频生成工具
-
+申请API Key网站：https://api.sora2.email/register?aff=J0Aw
 这是一个基于PyQt5开发的Sora2视频生成工具，提供图形界面让用户能够方便地生成高质量视频内容。
 
 ## 功能特点
